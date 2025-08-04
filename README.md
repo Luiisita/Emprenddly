@@ -1,5 +1,5 @@
 # Emprenddly 
-App para la gestion de ventas e inventario de emprendimiento o microempresas
+App para la gestión de ventas e inventario de un emprendimiento o una microempresa
 
 ## Tecnologias Seleccionadas
 - Python (version mas actualizda)
