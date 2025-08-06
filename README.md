@@ -8,6 +8,7 @@ App para la gestión de ventas e inventario de un emprendimiento o una microempr
 - SQLite oPostgreSQL (para la BD)
 - Visual Studio Code (IDE)
 
+```
 ## Estructras del Proyecto
 Emprenddly
 |__backend  (Logica del servidor Flask)
@@ -32,6 +33,7 @@ Emprenddly
 |__app.py  (Configurar las rutas)
 |
 |__env (El entorno creado desde la terminal, para un mejor trabajo)
+```
 
 ## Desarrolladores:
 
